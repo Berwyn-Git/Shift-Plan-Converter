@@ -1,3 +1,6 @@
+'''
+This code is to match the email with names even in the not-standard situation
+'''
 import pandas as pd
 
 # Load the employee data
