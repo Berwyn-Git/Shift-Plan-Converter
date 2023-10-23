@@ -1,3 +1,6 @@
+'''
+This code is to get all the emails with the name attached as a list for next workflow.
+'''
 import openpyxl
 
 # Load the workbook
